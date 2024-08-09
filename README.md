@@ -28,13 +28,13 @@
 
 
 <div align="left">
-  <a target="_blank" href="https://www.facebook.com/Dato07" target="_blank">
+  <a  href="https://www.facebook.com/Dato07" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a target="_blank" href="https://discord.com/users/885037314806530069" target="_blank">
+  <a  href="https://discord.com/users/885037314806530069" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a target="_blank" href="mailto:gogiadato8@gmail.com" target="_blank">
+  <a  href="mailto:gogiadato8@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
     
   </a>
