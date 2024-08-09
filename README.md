@@ -40,7 +40,6 @@
   </a>
 </div>
 
-![snake gif](https://github.com/datodato788/datodato788/blob/output/github-contribution-grid-snake.gif)
 ###
 
 
