@@ -23,7 +23,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=datodato788&show_icons=true&locale=en&layout=compact" alt="datodato788" /></p>
 <br>
 
 
@@ -39,6 +38,7 @@
     
   </a>
 </div>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=datodato788&show_icons=true&locale=en&layout=compact" alt="datodato788" /></p>
 
 ###
 
