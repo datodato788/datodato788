@@ -15,7 +15,6 @@
 - 💻 **Front-end Developer & Ethical Hacking Enthusiast**
 - 🌱 Currently learning **Web Development & Cybersecurity**
 - 🎯 Aspiring to become a **Successful Cybersecurity Expert**
-- 🤖 Exploring **Telegram Bot Development**
 - 🔧 Experienced with:
   - **JavaScript, TypeScript, Python (Beginner)**
   - **HTML, CSS, React (Beginner), Node.js (Intermediate)**
