@@ -39,6 +39,16 @@
 
 </p>
 
+
+## 🛡️ Kali Linux Tools Experience  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Aircrack--ng-00599C?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-2E8B57?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
+
 ---
 
 ## 📊 GitHub Stats
