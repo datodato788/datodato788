@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/John%20the%20Ripper-a69a32?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Wifite-57bd57?style=for-the-badge&logo=kalilinux&logoColor=white" />
-
+ <img src="https://img.shields.io/badge/Gobuster-FF6C37?style=for-the-badge&logo=go&logoColor=white" /> 
 </p>
 
 ---
