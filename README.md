@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 💻 **Front / Back -end Developer & Ethical Hacking Enthusiast**
+- 💻 **Front / Back -end Developer & Ethical Hacking begginer**
 - 🌱 Currently learning **Web Development & Cybersecurity**
 - 🎯 Aspiring to become a **Successful Cybersecurity Expert**
 - 🔧 Experienced with:
