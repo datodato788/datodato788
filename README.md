@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-Full-Stack Developer • Cybersecurity Enthusiast • Linux User
+Full-Stack Developer • Cybersecurity Enthusiast • Windows/Linux User
 </h3>
 
 <p align="center">
