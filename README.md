@@ -76,6 +76,5 @@ I care more about how something works than how fast it is built.
 </p>
 
 <p align="center">
-Silence reveals patterns.
 </p>
 
