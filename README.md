@@ -31,8 +31,8 @@ then rebuild them cleanly and intentionally.
 
 Languages  
 JavaScript  
-TypeScript  
 Python  
+C - soon!
 
 Backend & Systems  
 Node.js  
