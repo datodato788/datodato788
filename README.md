@@ -37,8 +37,8 @@ C - soon!
 Backend & Systems  
 Node.js  
 REST APIs  
-Flask
 Linux environments  
+Flask
 
 Security & Research  
 Kali Linux  
