@@ -37,6 +37,7 @@ C - soon!
 Backend & Systems  
 Node.js  
 REST APIs  
+Flask
 Linux environments  
 
 Security & Research  
