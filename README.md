@@ -9,7 +9,7 @@ Full-Stack Developer • Cybersecurity Enthusiast • Windows/Linux User
 </h3>
 
 <p align="center">
-I build systems to understand how they fail — and how to secure them.
+I build systems to understand how they fail - and how to secure them.
 </p>
 
 ---
@@ -19,7 +19,7 @@ I build systems to understand how they fail — and how to secure them.
 Engineering mindset over trends.  
 Systems first. Details matter.
 
-I’m Dato — focused on how real systems behave outside tutorials and demos.  
+I’m Dato - focused on how real systems behave outside tutorials and demos.  
 My work lives where web technologies, networks, and security intersect.
 
 I study fundamentals deeply, stress them, break them, analyze the failure,  
