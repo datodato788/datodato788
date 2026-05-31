@@ -68,7 +68,7 @@ I care more about how something works than how fast it is built.
 ## CONTACT
 
 <p align="center">
-  <a href="https://discord.com/users/885037314806530069">
+  <a href="https://discord.com/users/1509993795339685949">
     <img src="https://img.shields.io/badge/Discord-0aa3ff?style=for-the-badge&logo=discord&logoColor=white&labelColor=0b1220" />
   </a>
   <a href="https://t.me/DaTooo_7">
