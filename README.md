@@ -63,8 +63,6 @@ I care more about how something works than how fast it is built.
 
 ---
 
-## ACTIVITY
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=datodato788&bg_color=000000&color=ffffff&line=1c60ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## CONTACT
 
 <p align="center">
